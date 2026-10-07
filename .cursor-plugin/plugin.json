@@ -1,0 +1,24 @@
+{
+  "name": "deel",
+  "version": "1.0.0",
+  "description": "Connect Cursor and Grok Bot to Deel: contracts, people, time off, payments, payslips, IT assets, and reference data via the Deel MCP server. Sign in with your Deel account on first connect.",
+  "author": {
+    "name": "Deel",
+    "url": "https://www.deel.com"
+  },
+  "logo": "assets/logo.svg",
+  "homepage": "https://developer.deel.com/mcp/introduction",
+  "repository": "https://github.com/deel-public/deel-public-mcp",
+  "license": "MIT",
+  "keywords": [
+    "deel",
+    "deel mcp",
+    "deel api",
+    "hris",
+    "hr",
+    "payroll",
+    "time off",
+    "eor",
+    "contracts"
+  ]
+}
